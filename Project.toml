@@ -1,0 +1,9 @@
+name = "lexavm"
+uuid = "19975b2e-0424-4f80-85fa-e1a25588ff5f"
+authors = ["Ashwani Rathee <ab669522@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Gtk = "4c0ca9eb-093a-5379-98c5-f87ac0bbbf44"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
